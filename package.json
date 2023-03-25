@@ -1,7 +1,7 @@
 {
   "name": "05-interactive-comments-section",
   "version": "0.1.0",
-  "home": "https://eng-milan.github.io/05-interactive-comments-section",
+  "home": "https://eng-milan.github.io/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
