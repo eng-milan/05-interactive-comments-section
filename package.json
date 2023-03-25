@@ -2,7 +2,7 @@
   "name": "05-interactive-comments-section",
   "version": "0.1.0",
   "home": "https://eng-milan.github.io/05-interactive-comments-section",
-  "private": false,
+  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -20,8 +20,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "server": "json-server --watch db.json --port 3004"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
