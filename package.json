@@ -2,7 +2,7 @@
   "name": "05-interactive-comments-section",
   "version": "0.1.0",
   "home": "https://eng-milan.github.io/05-interactive-comments-section",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
